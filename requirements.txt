@@ -1,0 +1,2 @@
+pyguitarpro>=0.9
+pygame>=2.5
